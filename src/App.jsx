@@ -257,7 +257,7 @@ function App() {
     <>
     <header>
       <img src="/game-logo.png" alt="Game Logo" style={{ width: '100px', height: '100px' }} />
-      <h1>Tic-Tac-Toe Game</h1>
+      <h1>Bana Tic-Tac-Toe</h1>
     </header>
     <main>
         <div id="game-container">
